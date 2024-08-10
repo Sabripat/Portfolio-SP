@@ -16,7 +16,7 @@ Bienvenido a mi portafolio. Aquí encontrarás dos proyectos destacados en forma
 Analizamos la curva de contagios durante 2021 para evaluar la relación entre el contagio y el género en distintas zonas geográficas.
 - **Fecha de presentación**: 06/07/2022
 
-### [UX Research](IT-projects/ux_research.pdf)
+### [UX Research](IT-projects/Manos que hablan.pdf.pdf)
 ### UX Research: Aplicación para el Aprendizaje del Lenguaje de Señas
 
 **Problemática**:
