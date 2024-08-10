@@ -2,7 +2,7 @@
 
 # Portafolio
 
-Bienvenido a mi portafolio. Aquí encontrarás dos proyectos destacados en formato PDF que he realizado:
+Bienvenido a mi portafolio. Aquí encontrarás dos proyectos académicos destacados en formato PDF que he realizado:
 
 ## Proyectos
 
