@@ -6,7 +6,7 @@ Bienvenido a mi portafolio. Aquí encontrarás dos proyectos destacados en forma
 
 ## Proyectos
 
-### [Data Analytics](IT-projects/data_analytics.pdf)
+### [Data Analytics](IT-projects/Proyecto_Covid.pdf)
 ### Data Analytics: Análisis de Contagios de COVID-19 en Argentina
 - **Descripción**: Este proyecto presenta un dashboard interactivo diseñado para el Ministerio de Salud de la CABA. El objetivo es ayudar a los mandos medios a identificar la necesidad de vacunación urgente y a comprender las áreas más afectadas por contagios y fallecimientos.
 - **Características**:
@@ -16,7 +16,7 @@ Bienvenido a mi portafolio. Aquí encontrarás dos proyectos destacados en forma
 Analizamos la curva de contagios durante 2021 para evaluar la relación entre el contagio y el género en distintas zonas geográficas.
 - **Fecha de presentación**: 06/07/2022
 
-### [UX Research](IT-projects/Manosquehablan.pdf)
+### [UX Research](IT-projects/Manos_que_hablan.pdf)
 ### UX Research: Aplicación para el Aprendizaje del Lenguaje de Señas
 
 **Problemática**:
